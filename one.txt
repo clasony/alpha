@@ -4,3 +4,4 @@ this is for testing reset hard.
 this is for testing merge branch.
 this is for testing rebase branch.
 this is for testing merge.zzzz
+this is for testing 345
