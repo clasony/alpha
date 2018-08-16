@@ -2,5 +2,4 @@ this is for testing.
 this is for testing remote.
 this is for testing reset hard.
 ==================================
-this is for testing reset --hard.
 
