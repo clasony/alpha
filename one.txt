@@ -6,3 +6,4 @@ this is for testing rebase branch.
 this is for testing after merge. xxxx.
 this is for testing after merge. yyyy.
 this is for testing merge.zzzz
+this is for testing rebase 123.
