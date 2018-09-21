@@ -1,13 +1,1 @@
-12345
-67890
-01010101
-11111
-1010101010
-00000
-0987654321
-user2 changes
-changes made in the branch.
-Test this during rebase. 
-Hello world!!!
-Changing this changes.
-LEt's check reset
+changes
