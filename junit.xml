@@ -10,8 +10,8 @@
 
 
 <target name="test">
-    <property name="comp.dir" value="D:\antclass\java\src\main\java\junit"/>
-	<property name="comp.class.dir" value="D:\antclass\java\src\main\java\junit\comp-class"/>
+    <property name="comp.dir" value="D:\sony\ant\java\src\test\java"/>
+	<property name="comp.class.dir" value="D:\sony\ant\java\src\test"/>
     
 	  
 	  
