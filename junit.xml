@@ -12,13 +12,9 @@
 <target name="test">
     <property name="comp.dir" value="D:\sony\ant\java\src\main\java"/>
 	<property name="comp.class.dir" value="D:\sony\ant\java\src\test"/>
-	<property name="test.dir" value="http://localhost:8080/jenkins/job/Testcases/ws/"/>
-    
-	  
-	  
-	  
-   
-    <!-- compile the FailedTests class if present -->
+	<property name="test.dir" value="C:\Users\unique\.jenkins\workspace\Testcases\result"/>
+	
+	<!-- compile the FailedTests class if present -->
     <javac srcdir="${comp.dir}" destdir="${comp.class.dir}"/>
    
  
@@ -36,3 +32,7 @@
 </target>
 
 </project>
+    
+	  
+	  
+	 
