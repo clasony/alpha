@@ -12,7 +12,7 @@
 <target name="test">
     <property name="comp.dir" value="D:\sony\ant\java\src\main\java"/>
 	<property name="comp.class.dir" value="D:\sony\ant\java\src\test"/>
-	<property name="test.dir" value="D:\sony\git\alpha\result"/>
+	<property name="test.dir" value="D:\sony\git\alpha"/>
     
 	  
 	  
