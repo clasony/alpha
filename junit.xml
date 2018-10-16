@@ -12,6 +12,7 @@
 <target name="test">
     <property name="comp.dir" value="D:\sony\ant\java\src\main\java"/>
 	<property name="comp.class.dir" value="D:\sony\ant\java\src\test"/>
+	<property name="test.dir" value="D:\sony\git\alpha\result"/>
     
 	  
 	  
@@ -26,7 +27,7 @@
 	  <classpath location="D:\softs\apache-ant-1.10.5-bin\apache-ant-1.10.5\lib\junit.jar"/>
        
 	   <test name="CalculatorTest" 
-			haltonfailure="no" todir="${comp.class.dir}" outfile="result">
+			haltonfailure="no" todir="${test.dir}" outfile="result">
 			<formatter type="plain" />
 			<formatter type="xml" />
 		</test>
